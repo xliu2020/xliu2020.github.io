@@ -102,10 +102,10 @@ footer  {
 }
 
 #portrait {
-    width:267px;
-    height:400px;
+    width:400px;
+    height:415px;
     display:inline-block;
-    margin-left:180px;
+    margin-left:80px;
     margin-top:50px;
     border:10px dashed black;
    
